@@ -5,3 +5,6 @@ Projeto de uma fonte de tensão ajustável para a disciplina SSC0180 - Eletrôni
 2. Reitificação CA -> CC
 3. Filtragem
 4. Regulador
+
+
+https://tinyurl.com/yehm69uq
