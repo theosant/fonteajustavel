@@ -4,8 +4,8 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 
 #### Alunos
 [Ana Lívia Ruegger Saldanha](https://github.com/liviaruegger) (Número USP: 8586691)<br />
-[Guilherme Sousa Panza]() (Número USP: )<br />
-[Rebeca Vieira Carvalho]() (Número USP: )<br />
+[Guilherme Sousa Panza](https://github.com/guisp03) (Número USP: 12543519)<br />
+[Rebeca Vieira Carvalho](https://github.com/RebecaVC) (Número USP: 12543530)<br />
 [Théo da Mota dos Santos](https://github.com/theosant) (Número USP: 10691331)<br />
 
 ### Instruções
@@ -23,7 +23,7 @@ Tabela contendo as colunas: componente, quantidade, preço unidade, preço total
 ### Diagrama da fonte no Falstad
 Apresentar imagem do diagrama da fonte com os valores dos componentes escolhidos.
 
-[Link do projeto no Falstad](https://tinyurl.com/yzokh4fx) < Obs.: PRECISA ATUALIZAR.
+[Link do projeto no Falstad](https://tinyurl.com/yzokh4fx)
 
 ### Cálculos
 Não é obrigatório, mas seria legal incluir.
