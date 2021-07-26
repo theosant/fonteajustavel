@@ -23,7 +23,7 @@ Tabela contendo as colunas: componente, quantidade, preço unidade, preço total
 ### Diagrama da fonte no Falstad
 Apresentar imagem do diagrama da fonte com os valores dos componentes escolhidos.
 
-[Link do projeto no Falstad](https://tinyurl.com/yzokh4fx)
+[Link do projeto no Falstad](https://tinyurl.com/yej76swo)
 
 ### Cálculos
 Não é obrigatório, mas seria legal incluir.
