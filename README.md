@@ -30,6 +30,7 @@ Não é obrigatório, mas seria legal incluir.
 
 ### Projeto do esquemático da PCB no EAGLE
 Incluir imagens.
+![alt text](https://prnt.sc/1h62iy4)
 
 ### Simulações 3D
 Podemos incluir simuçações 3D feitas no softaware Fusion 360.
