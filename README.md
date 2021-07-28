@@ -29,8 +29,9 @@ Apresentar imagem do diagrama da fonte com os valores dos componentes escolhidos
 Não é obrigatório, mas seria legal incluir.
 
 ### Projeto do esquemático da PCB no EAGLE
-Incluir imagens.
-![alt text](https://github.com/theosant/fonteajustavel/blob/main/CircuitoEsquematico.png)
+
+![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/CircuitoEsquematico.png)
+![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Conexoes.png)
 
 ### Simulações 3D
 Podemos incluir simuçações 3D feitas no softaware Fusion 360.
