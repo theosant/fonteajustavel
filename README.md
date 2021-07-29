@@ -33,8 +33,8 @@ Não é obrigatório, mas seria legal incluir.
 
 ### Projeto do esquemático da PCB no EAGLE
 
-![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/CircuitoEsquematico.png)
-![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes.png)
+![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Esquematico.png)
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes2.png)
 
 ### Simulações 3D
 Podemos incluir simuçações 3D feitas no softaware Fusion 360.
