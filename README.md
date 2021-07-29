@@ -27,7 +27,7 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 
 #### 4° Etapa - Regulagem
 
-**• Resistores:** <br />— R1: Limita a corrente que passa pelo Diodo Zener para que ele se mantenha abaixo do máximo definido pelas especificações.<br /> — R2: Limita a tensão mínima na saída, para que ela fique aproximadamente 3V, assim como nas especificações.<br />
+**• Resistores:** <br />- R1: Limita a corrente que passa pelo Diodo Zener para que ele se mantenha abaixo do máximo definido pelas especificações.<br /> - R2: Limita a tensão mínima na saída, para que ela fique aproximadamente 3V, assim como nas especificações.<br />
 
 **• Potenciômetro:** <br />É um dispositivo com a resistência ajustável, que será responsável pelas alterações de tensão entre 12V e 3V, conforme o necessário.<br />
 
@@ -36,7 +36,7 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 **• Transistor:** <br />Funciona como um interruptor, quando recebe corrente pela base permite o fluxo de elétrons, além disso também possui a função de amplificar a corrente. Nesse projeto, ele adquire o segundo papel, uma vez que ele faz com que a corrente que passa de C a E, seja proporcional à corrente que vem do potenciômetro, baseado em uma proporção Beta de 100 (B*100 = C). Assim, é possível regular de maneira inversamente proporcional tanto a corrente da saída, quanto sua tensão (já que a Resistencia é inversamente proporcional à Corrente).<br />
 
 #### Extra:
-**LED:** Apenas uma maneira de se visualizar que há corrente passando pelo sistema.
+**LED:** Apenas uma maneira de se visualizar que há corrente passando pelo sistema. <br />
 **Resistor LED:** Limita a corrente que passará pelo LED para que ele não queime. De acordo com as especificações, seu valor de resistência deve ser entre 680R e 1K1 para que a corrente que passa por ele seja abaixo de 20mA que é seu máximo. Dessa forma, escolhemos o resistor de 1k que dá uma boa margem para que não haja problemas. 
 
 
