@@ -17,7 +17,7 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 ## Diagrama da fonte no Falstad
 
 ![Fonte](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Falstad3.png)
-[Link do projeto no Falstad](https://tinyurl.com/yj6r99p3)
+[Link do projeto no Falstad](https://tinyurl.com/yj3ajt6c)
 
 ## Projeto do esquemático da PCB no EAGLE
 
