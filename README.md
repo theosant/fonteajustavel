@@ -32,7 +32,7 @@ Descrever brevemente as escolhas do grupo para o projeto: escolha de software, m
 ### Escolha dos componentes
 Quantidade | Componente | Especificações | Valor Unitário | Subtotal
 :--------: | :--------: | :------------: | :------------: | :------:
-Valor | Valor | Valor | Valor | Valor
+1x | [Transformador](tinyurl.com/uy5pmu36) | Valor | R$43,49 | R$43,49
 Total |||| R$ ??
 
 ### Diagrama da fonte no Falstad
