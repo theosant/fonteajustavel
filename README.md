@@ -12,7 +12,7 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 Projetar uma fonte de tensão ajustável entre 3V e 12V com capacidade de 100mA, que funcione a partir de uma tomada de 127V de corrente alternada e frequência de 60Hz.
 
 ### Introdução
-Descrever brevemente as escolhas do grupo para o projeto: escolha de software, métodos utilizados etc.
+O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica durante o semestre para elaborar um circuito que correspondesse às especificações estabelecidas. Dessa forma, os componentes e suas funções foram estudados e organizados para obter os resultados desejados. 
 
 ### Descrição dos componentes
 **• Transformador:** (Serve para alterar a tensão do circuito, utilizando a indução de duas boninas, altera conforme a razão entre as voltas do fio.)<br />
