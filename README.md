@@ -15,19 +15,25 @@ Projetar uma fonte de tensão ajustável entre 3V e 12V com capacidade de 100mA,
 O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica durante o semestre para elaborar um circuito que correspondesse às especificações estabelecidas. Dessa forma, os componentes e suas funções foram estudados e organizados para obter os resultados desejados. 
 
 ### Descrição dos componentes
-**• Transformador:** (Serve para alterar a tensão do circuito, utilizando a indução de duas boninas, altera conforme a razão entre as voltas do fio.)<br />
+**• Transformador:** <br />Altera a tensão do circuito através da indução de duas bobinas, que mudam a tensão conforme a razão entre as voltas do fio. Inicialmente a tensão que se tem para os cálculos é a de 180V de corrente eficaz proveniente da corrente alternada, portanto, é necessário que se dimensione essa voltagem para um valor mais aproximado de 12V como na especificação. Assim, considerando possível redução de tensão devido às resistências dos componentes do circuito, foi estimado o valor 18V para a tensão de saída. <br />
 
-**• Diodos:** (Um semi-condutor, permite a passagem de corrente por apenas um sentido.)<br />
+# 1° Etapa - Retificação
 
-**• Capacitor:** (Utilizado para armazenar cargas.)<br />
+**• Diodos (Ponte retificadora):** <br />São semicondutores que permitem a passagem da corrente por apenas um sentido. Ao colocar os diodos em uma certa configuração, é possível alterar a corrente alternada para uma corrente que irá apenas para um sentido. <br />
 
-**• Resistores:** (É um componente com a função limitar a passagem de eletrons.)<br />
+# 2° Etapa - Filtragem
 
-**• Potenciômetro:** (Um dispositivo com a resistência ajustável, também possui a função de dividir a tensão.)<br />
+**• Capacitor:** <br />Para fazer a tensão ficar realmente contínua na saída é necessário utilizar um capacitor que se carregará de energia toda a vez que a tensão subir e quando a ela descer, o capacitor é quem alimentará o circuito, fazendo com que a tensão na saída seja praticamente contínua. A variação entra a continuidade perfeita e a real é dada pelo Ripple.<br />
 
-**• Diodo Zener:** (Parecido com um diodo comum, porém possui uma tensão de ruptura que permite o fluxo de eletrons no sentido inverso.)<br />
+# 4° Etapa - Regulagem
 
-**• Transistor:** (Funciona como um interruptor, quando recebebe corrente pela base permite o fluxo de eletróns, além disso também possui a função de amplificar a corrente.)<br />
+**• Resistores:** <br />— R1: Limita a corrente que passa pelo Diodo Zener para que ele se mantenha abaixo do máximo definido pelas especificações.<br /> — R2: Limita a tensão mínima na saída, para que ela fique aproximadamente 3V, assim como nas especificações.<br />
+
+**• Potenciômetro:** <br />É um dispositivo com a resistência ajustável, que será responsável pelas alterações de tensão entre 12V e 3V, conforme o necessário.<br />
+
+**• Diodo Zener:** <br />É parecido com um diodo comum, porém possui uma tensão de ruptura que permite o fluxo de elétrons no sentido inverso. Ele limita a tensão máxima de acordo com suas especificações que, no caso são de 13V. Foi escolhido 13 Volts para não ficar abaixo de 12V, uma vez que o Transistor consome 0,7V para o início da passagem da corrente de C a E.<br />
+
+**• Transistor:** <br />Funciona como um interruptor, quando recebe corrente pela base permite o fluxo de elétrons, além disso também possui a função de amplificar a corrente. Nesse projeto, ele adquire o segundo papel, uma vez que ele faz com que a corrente que passa de C a E, seja proporcional à corrente que vem do potenciômetro, baseado em uma proporção Beta de 100 (B*100 = C). Assim, é possível regular de maneira inversamente proporcional tanto a corrente da saída, quanto sua tensão (já que a Resistencia é inversamente proporcional à Corrente).<br />
 
 ### Escolha dos componentes
 Quantidade | Componente | Especificações | Valor Unitário | Subtotal
