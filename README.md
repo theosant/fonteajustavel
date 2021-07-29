@@ -76,7 +76,7 @@ Total | R$33,04
 ## Cálculos
 ![Contas](https://github.com/theosant/fonteajustavel/blob/main/Imagens/contas.jpg)
 
-## Vídeo
+## Vídeos
 [Vídeo explicativo](https://drive.google.com/file/d/1i-EgW6dsTn0x9-_wUDF4uOrBlxSEzaWB/view?usp=sharing)<br />
 [Vídeo sobre a placa](https://drive.google.com/file/d/1RNaMusmE2twlEb49zs2n9kYGCMyknFKS/view?usp=sharing)<br />
 
