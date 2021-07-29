@@ -15,13 +15,13 @@ Projetar uma fonte de tensão ajustável entre 3V e 12V com capacidade de 100mA,
 Descrever brevemente as escolhas do grupo para o projeto: escolha de software, métodos utilizados etc.
 
 ### Descrição dos componentes
-**• Transformador:** (...)
-**• Diodos:** (...)
-**• Capacitor:** (...)
-**• Resistores:** (...)
-**• Potenciômetro:** (...)
-**• Diodo Zener:** (...)
-**• Transistor:** (...)
+**• Transformador:** (...)<br />
+**• Diodos:** (...)<br />
+**• Capacitor:** (...)<br />
+**• Resistores:** (...)<br />
+**• Potenciômetro:** (...)<br />
+**• Diodo Zener:** (...)<br />
+**• Transistor:** (...)<br />
 
 ### Escolha dos componentes
 Quantidade | Componente | Especificações | Valor Unitário | Subtotal
