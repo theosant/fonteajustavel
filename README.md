@@ -18,10 +18,10 @@ Descrever brevemente as escolhas do grupo para o projeto: escolha de software, m
 Listar e descrever brevemente cada um dos componentes.
 
 ### Escolha dos componentes
-Nome do Componente | Quantidade | Valor Unitário
-:---------: | :------: | :-------:
-Valor | Valor | Valor
-Tabela contendo as colunas: componente, quantidade, preço unidade, preço total;
+Quantidade | Componente | Especificações | Valor Unitário | Subtotal
+:--------: | :--------: | :------------: | :------------: | :------:
+Valor | Valor | Valor | Valor | Valor
+Total |||| R$ ??
 
 ### Diagrama da fonte no Falstad
 Apresentar imagem do diagrama da fonte com os valores dos componentes escolhidos.
