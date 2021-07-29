@@ -54,6 +54,14 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 Quantidade | Componente | Especificações | Valor Unitário | Subtotal
 :--------: | :--------: | :------------: | :------------: | :------:
 1x | [Transformador](https://www.soldafria.com.br/transformador-18v-500ma-entrada-110-220vac?gclid=CjwKCAjwgISIBhBfEiwALE19SYi9AQrBZl5fFIyoIGijSuOdKULBggC66sKIhYPmz87XsCafkuF5EBoCyG0QAvD_BwE) | 18V | R$27,99 | R$27,99
+4x | [Diodo](https://www.baudaeletronica.com.br/diodo-1n4007.html?gclid=CjwKCAjwgISIBhBfEiwALE19SafDhS3zcKlc-pYkbX4yrKnC0vrDEIC7dmgl-M4LfWpkxQgSgWPXVBoCGGAQAvD_BwE)| 1N4007 | R$0,10 | R$0,40
+1x | [Capacitor](https://produto.mercadolivre.com.br/MLB-1915915264-560uf-25v-10-unidades-capacitor-eletrolitico-560uf-25v-_JM?matt_tool=87716990&matt_word=&matt_source=google&matt_campaign_id=12413740998&matt_ad_group_id=119070072438&matt_match_type=&matt_network=g&matt_device=c&matt_creative=500702333978&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=295274570&matt_product_id=MLB1915915264&matt_product_partition_id=337120033364&matt_target_id=aud-879604627128:pla-337120033364&gclid=CjwKCAjwgISIBhBfEiwALE19SSJuvn_YJIBoWkNwUp9WwY33Nta2HSl5PS2rgAiBzvIXnVDysL0c2BoCJPgQAvD_BwE) | 560 μF 25V | R$1,90 | R$1,90
+1x | [Resistencia](https://www.baudaeletronica.com.br/resistor-560r-5-1-4w.html?gclid=CjwKCAjwgISIBhBfEiwALE19Sf6vY3taqhZoEn3L4qgsixLtqOAoYjv3Ge9f_c2XX-5geIaFSLrnPxoCAkkQAvD_BwE) | 560Ω 1/4W | R$0,05 | R$0,05
+1x | [Resistencia](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html?gclid=CjwKCAjwgISIBhBfEiwALE19SS1oi92NCxtcSPmxnNBpX_zIe8WpckMf3SExsrUsOE_ks7Yn8ie1-xoC-GQQAvD_BwE) | 2k2Ω 1/4W | R$0,05 | R$0,05 
+1x | [Zener](https://www.baudaeletronica.com.br/diodo-zener-bzx55c-13v-0-5w.html?gclid=CjwKCAjwgISIBhBfEiwALE19SWIFKwNCWbOrWzfxyZ2e321rHF8viCXOqk8JYHUQMETebNwSlPXylhoCtX8QAvD_BwE) | 13V 0,5W | R$0,09 | R$0,09
+1x | [Potenciometro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html?gclid=CjwKCAjwgISIBhBfEiwALE19SfD9mpnf_luAb2enr7G8WmFqdA7xBAykY8erseIPlrFKdb14Mw_V4xoCB-gQAvD_BwE) | 5kΩ | R$1,99 | R$1,99
+1x | [Transistor](https://www.filipeflop.com/produto/transistor-s8050-npn-x10-unidades/?utm_source=google&utm_medium=organic&utm_campaign=shopping&utm_content=surfaces_across_google) | S8050NPN | R$0,59 | R$0,59
+
 Total |||| R$ ??
 
 ### Cálculos
