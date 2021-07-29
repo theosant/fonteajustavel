@@ -77,7 +77,7 @@ Total | R$33,04
 ![Contas](https://github.com/theosant/fonteajustavel/blob/main/Imagens/contas.jpg)
 
 ## Vídeo
-![Vídeo explicativo](https://drive.google.com/file/d/1i-EgW6dsTn0x9-_wUDF4uOrBlxSEzaWB/view?usp=sharing)<br />
+[Vídeo explicativo](https://drive.google.com/file/d/1i-EgW6dsTn0x9-_wUDF4uOrBlxSEzaWB/view?usp=sharing)<br />
 
 ## Considerações finais
 Como proposto, a fonte projetada atinge os objetivos estabelecidos: possibilita a obtenção de tensão ajustável entre 3V e 12V com capacidade de 100mA, funcionando a partir de uma tomada de 127V de corrente alternada e frequência de 60Hz. Todos os componentes escolhidos foram importantes para atingir o resultado final e o comportamento do circuito na simulação reflete o esperado pelos nossos cálculos.
