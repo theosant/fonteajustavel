@@ -32,7 +32,7 @@ Descrever brevemente as escolhas do grupo para o projeto: escolha de software, m
 ### Escolha dos componentes
 Quantidade | Componente | Especificações | Valor Unitário | Subtotal
 :--------: | :--------: | :------------: | :------------: | :------:
-1x | [Transformador](tinyurl.com/uy5pmu36) | Valor | R$43,49 | R$43,49
+1x | [Transformador](https://produto.mercadolivre.com.br/MLB-1299159736-transformador-1515v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgKeMy0nJofiC6KaxPgJOotdfYedegX4Cvw1K8ZATrrtRfrb-_nViN8aAoY1EALw_wcB&quantity=1) | 15V | R$43,49 | R$43,49
 Total |||| R$ ??
 
 ### Diagrama da fonte no Falstad
