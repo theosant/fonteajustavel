@@ -25,7 +25,7 @@ Total |||| R$ ??
 
 ### Diagrama da fonte no Falstad
 Apresentar imagem do diagrama da fonte com os valores dos componentes escolhidos.
-![Fonte](https://github.com/theosant/fonteajustavel/blob/main/CircuitoFalstadComResistor.png)
+![Fonte](https://github.com/theosant/fonteajustavel/blob/main/CircuitoFalstad2.png)
 [Link do projeto no Falstad](https://tinyurl.com/ye2f5hnm)
 
 ### Cálculos
