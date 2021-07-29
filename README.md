@@ -16,13 +16,13 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 
 ### Diagrama da fonte no Falstad
 
-![Fonte](https://github.com/theosant/fonteajustavel/blob/main/Falstad3.png)
+![Fonte](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Falstad3.png)
 [Link do projeto no Falstad](https://tinyurl.com/yj6r99p3)
 
 ### Projeto do esquemático da PCB no EAGLE
 
-![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Esquematico3.png)
-![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes3.png)
+![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Esquematico3.png)
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Conexoes3.png)
 
 ### Descrição dos componentes
 #### 1ª Etapa - Transformação
