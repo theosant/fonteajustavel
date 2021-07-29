@@ -45,8 +45,8 @@ Não é obrigatório, mas seria legal incluir.
 
 ### Projeto do esquemático da PCB no EAGLE
 
-![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Esquematico.png)
-![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes2.png)
+![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Esquematico3.png)
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes3.png)
 
 ### Vídeos
 Pede-se: incluir vídeo(s) mostrando o Projeto funcionando e/ou simulando, e explicando porque escolheu os valores dos componentes.<br />
