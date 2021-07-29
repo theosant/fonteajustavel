@@ -27,14 +27,17 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 ### Descrição dos componentes
 #### 1ª Etapa - Transformação
 **• Transformador:** <br />Altera a tensão do circuito através da indução de duas bobinas, que mudam a tensão conforme a razão entre as voltas do fio. Inicialmente a tensão que se tem para os cálculos é a de 180V de corrente eficaz proveniente da corrente alternada, portanto, é necessário que se dimensione essa voltagem para um valor mais aproximado de 12V como na especificação. Assim, considerando possível redução de tensão devido às resistências dos componentes do circuito, foi estimado o valor 18V para a tensão de saída. <br />
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Imagens/1etapa.jpg)<br />
+
 
 #### 2ª Etapa - Retificação
 **• Diodos (Ponte retificadora):** <br />São semicondutores que permitem a passagem da corrente por apenas um sentido. Ao colocar os diodos em uma certa configuração, é possível alterar a corrente alternada para uma corrente que irá apenas para um sentido. <br />
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Imagens/2etapa.jpg)<br />
 
 #### 3ª Etapa - Filtragem
 
 **• Capacitor:** <br />Para fazer a tensão ficar realmente contínua na saída é necessário utilizar um capacitor que se carregará de energia toda a vez que a tensão subir e quando a ela descer, o capacitor é quem alimentará o circuito, fazendo com que a tensão na saída seja praticamente contínua. A variação entra a continuidade perfeita e a real é dada pelo Ripple.<br />
-
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Imagens/3etapa.jpg)<br />
 
 #### 4ª Etapa - Regulagem
 
@@ -45,6 +48,7 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 **• Diodo Zener:** <br />É parecido com um diodo comum, porém possui uma tensão de ruptura que permite o fluxo de elétrons no sentido inverso. Ele limita a tensão máxima de acordo com suas especificações que, no caso são de 13V. Foi escolhido 13 Volts para não ficar abaixo de 12V, uma vez que o Transistor consome 0,7V para o início da passagem da corrente de C a E.<br />
 
 **• Transistor:** <br />Funciona como um interruptor, quando recebe corrente pela base permite o fluxo de elétrons, além disso também possui a função de amplificar a corrente. Nesse projeto, ele adquire o segundo papel, uma vez que ele faz com que a corrente que passa de C a E, seja proporcional à corrente que vem do potenciômetro, baseado em uma proporção Beta de 100 (B*100 = C). Assim, é possível regular de maneira inversamente proporcional tanto a corrente da saída, quanto sua tensão (já que a Resistencia é inversamente proporcional à Corrente).<br />
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Imagens/4etapa.jpg)<br />
 
 #### Extra:
 **+ LED:** Apenas uma maneira de se visualizar que há corrente passando pelo sistema. <br />
