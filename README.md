@@ -16,11 +16,17 @@ Descrever brevemente as escolhas do grupo para o projeto: escolha de software, m
 
 ### Descrição dos componentes
 **• Transformador:** (...)<br />
+
 **• Diodos:** (...)<br />
+
 **• Capacitor:** (...)<br />
+
 **• Resistores:** (...)<br />
+
 **• Potenciômetro:** (...)<br />
+
 **• Diodo Zener:** (...)<br />
+
 **• Transistor:** (...)<br />
 
 ### Escolha dos componentes
