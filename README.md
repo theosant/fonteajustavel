@@ -69,7 +69,7 @@ Total | R$33,04
 :---: | :---:
 
 ### Cálculos
-![Contas](https://github.com/theosant/fonteajustavel/blob/main/contas.jpg)
+![Contas](https://github.com/theosant/fonteajustavel/blob/main/Imagens/contas.jpg)
 ### Vídeos
 Pede-se: incluir vídeo(s) mostrando o Projeto funcionando e/ou simulando, e explicando porque escolheu os valores dos componentes.<br />
 [Video 1](<>)<br />
