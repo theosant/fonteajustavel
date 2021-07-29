@@ -14,6 +14,16 @@ Projetar uma fonte de tensão ajustável entre 3V e 12V com capacidade de 100mA,
 ### Introdução
 O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica durante o semestre para elaborar um circuito que correspondesse às especificações estabelecidas. Dessa forma, os componentes e suas funções foram estudados e organizados para obter os resultados desejados. 
 
+### Diagrama da fonte no Falstad
+
+![Fonte](https://github.com/theosant/fonteajustavel/blob/main/CircuitoFalstad2.png)
+[Link do projeto no Falstad](https://tinyurl.com/ye2f5hnm)
+
+### Projeto do esquemático da PCB no EAGLE
+
+![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Esquematico3.png)
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes3.png)
+
 ### Descrição dos componentes
 **• Transformador:** <br />Altera a tensão do circuito através da indução de duas bobinas, que mudam a tensão conforme a razão entre as voltas do fio. Inicialmente a tensão que se tem para os cálculos é a de 180V de corrente eficaz proveniente da corrente alternada, portanto, é necessário que se dimensione essa voltagem para um valor mais aproximado de 12V como na especificação. Assim, considerando possível redução de tensão devido às resistências dos componentes do circuito, foi estimado o valor 18V para a tensão de saída. <br />
 
@@ -46,18 +56,8 @@ Quantidade | Componente | Especificações | Valor Unitário | Subtotal
 1x | [Transformador](https://www.soldafria.com.br/transformador-18v-500ma-entrada-110-220vac?gclid=CjwKCAjwgISIBhBfEiwALE19SYi9AQrBZl5fFIyoIGijSuOdKULBggC66sKIhYPmz87XsCafkuF5EBoCyG0QAvD_BwE) | 18V | R$27,99 | R$27,99
 Total |||| R$ ??
 
-### Diagrama da fonte no Falstad
-
-![Fonte](https://github.com/theosant/fonteajustavel/blob/main/CircuitoFalstad2.png)
-[Link do projeto no Falstad](https://tinyurl.com/ye2f5hnm)
-
 ### Cálculos
 Não é obrigatório, mas seria legal incluir.
-
-### Projeto do esquemático da PCB no EAGLE
-
-![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Esquematico3.png)
-![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes3.png)
 
 ### Vídeos
 Pede-se: incluir vídeo(s) mostrando o Projeto funcionando e/ou simulando, e explicando porque escolheu os valores dos componentes.<br />
