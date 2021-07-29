@@ -49,9 +49,9 @@ Não é obrigatório, mas seria legal incluir.
 ![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Conexoes2.png)
 
 ### Vídeos
-Pede-se: incluir vídeo(s) mostrando o Projeto funcionando e/ou simulando, e explicando porque escolheu os valores dos componentes.
-[Video 1](<>)
-[Video 2](<>)
+Pede-se: incluir vídeo(s) mostrando o Projeto funcionando e/ou simulando, e explicando porque escolheu os valores dos componentes.<br />
+[Video 1](<>)<br />
+[Video 2](<>)<br />
 
 ### Considerações finais
 ...
