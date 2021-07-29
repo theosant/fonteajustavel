@@ -21,8 +21,8 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 
 ### Projeto do esquemático da PCB no EAGLE
 
-![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Esquematico3.png)
-![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Conexoes3.png)
+![Esquematico](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Esquematico3.png)<br />
+![Conexoes](https://github.com/theosant/fonteajustavel/blob/main/Imagens/Conexoes3.png)<br />
 
 ### Descrição dos componentes
 #### 1ª Etapa - Transformação
@@ -71,12 +71,11 @@ Total | R$33,04
 ### Cálculos
 ![Contas](https://github.com/theosant/fonteajustavel/blob/main/Imagens/contas.jpg)
 ### Vídeos
-Pede-se: incluir vídeo(s) mostrando o Projeto funcionando e/ou simulando, e explicando porque escolheu os valores dos componentes.<br />
 [Video 1](<>)<br />
 [Video 2](<>)<br />
 
 ### Considerações finais
-...
+Como proposto, a fonte projetada atinge os objetivos estabelecidos: possibilita a obtenção de tensão ajustável entre 3V e 12V com capacidade de 100mA, funcionando a partir de uma tomada de 127V de corrente alternada e frequência de 60Hz. Todos os componentes escolhidos foram importantes para atingir o resultado final e o comportamento do circuito na simulação reflete o esperado pelos nossos cálculos.
 
 ### Agradecimentos
-...
+Agracemos especialmente ao professor Eduardo Simões pelo incentivo ao aprendizado, aulas divertidas e compreensão no contexto de pandemia.
