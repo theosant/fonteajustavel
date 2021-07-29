@@ -17,15 +17,15 @@ O objetivo do projeto é utilizar os conhecimentos adquiridos em eletrônica dur
 ### Descrição dos componentes
 **• Transformador:** <br />Altera a tensão do circuito através da indução de duas bobinas, que mudam a tensão conforme a razão entre as voltas do fio. Inicialmente a tensão que se tem para os cálculos é a de 180V de corrente eficaz proveniente da corrente alternada, portanto, é necessário que se dimensione essa voltagem para um valor mais aproximado de 12V como na especificação. Assim, considerando possível redução de tensão devido às resistências dos componentes do circuito, foi estimado o valor 18V para a tensão de saída. <br />
 
-# 1° Etapa - Retificação
+#### 1° Etapa - Retificação
 
 **• Diodos (Ponte retificadora):** <br />São semicondutores que permitem a passagem da corrente por apenas um sentido. Ao colocar os diodos em uma certa configuração, é possível alterar a corrente alternada para uma corrente que irá apenas para um sentido. <br />
 
-# 2° Etapa - Filtragem
+#### 2° Etapa - Filtragem
 
 **• Capacitor:** <br />Para fazer a tensão ficar realmente contínua na saída é necessário utilizar um capacitor que se carregará de energia toda a vez que a tensão subir e quando a ela descer, o capacitor é quem alimentará o circuito, fazendo com que a tensão na saída seja praticamente contínua. A variação entra a continuidade perfeita e a real é dada pelo Ripple.<br />
 
-# 4° Etapa - Regulagem
+#### 4° Etapa - Regulagem
 
 **• Resistores:** <br />— R1: Limita a corrente que passa pelo Diodo Zener para que ele se mantenha abaixo do máximo definido pelas especificações.<br /> — R2: Limita a tensão mínima na saída, para que ela fique aproximadamente 3V, assim como nas especificações.<br />
 
